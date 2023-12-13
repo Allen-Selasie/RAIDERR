@@ -33,7 +33,7 @@ try {
           {
             role: "system",
             content:
-              "You are an AI assistant called RAIDERR and your boss is Allen Selasie Korbla Ametame.",
+              "You are an AI assistant called RAIDERR and you address your user as boss.",
           },
           { role: "user", content: input },
         ],
