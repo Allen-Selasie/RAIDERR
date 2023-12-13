@@ -4,7 +4,7 @@
   "description": "My personal Ai assistant",
   "main": "raiderr.js",
   "scripts": {
-    "test": "npm raiderr.js"
+    "test": "node raiderr.js"
   },
   "author": "Allen Selasie Korbla Ametame",
   "license": "GPL-3.0",
